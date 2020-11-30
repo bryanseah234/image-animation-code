@@ -2,7 +2,7 @@
 Create recursive image transformation animations
 
 <p align="center">
-  <img src="https://miro.medium.com/max/300/1*OnG5B5NldJz-l-J1RrEbrw.png" />
+  <img src="https://miro.medium.com/max/300/1*OnG5B5NldJz-l-J1RrEbrw.png" width="300" height="300" />
 </p>
 
 ## Disclaimer
