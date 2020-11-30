@@ -1,6 +1,10 @@
 # Rotate Your Photos!
 Create recursive image transformation animations
 
+<p align="center">
+  <img src="https://miro.medium.com/max/300/1*OnG5B5NldJz-l-J1RrEbrw.png" />
+</p>
+
 ## Disclaimer
 1. Valid output formats include .m4a .mp4 .mov .avi
 
