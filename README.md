@@ -1,29 +1,23 @@
 # Rotate Your Photos!
 Create recursive image transformation animations
 
-## Demo
+## Disclaimer
+1. Valid output formats include .m4a .mp4 .mov .avi
 
-## Usage Instructions
+## Demo:
 
-An animation can be generated using the `rotate.py` or `transform.py` file.
+## Instructions:
 
-## rotate&#46;py
-
+### rotate&#46;py
+1. Run the following code in a terminal of your choice
 `python3.7 rotate.py <input_image.png> <output_file.mp4>`
 
-## transform&#46;py
-
+### transform&#46;py
+1. Run the following code in a terminal of your choice
 `python3.7 transform.py <input_image.png> <output_file.mp4> optional: <transform_type>`
 
-
+where
 0: rotation
-
 1: vertical flip
-
 2: horizontal flip
-
 3: vertical+horizontal flip
-
-## Others
-
-Valid output formats include .m4a .mp4 .mov .avi
