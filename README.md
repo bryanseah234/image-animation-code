@@ -1,7 +1,7 @@
 # Rotate Your Photos!
 Create recursive image transformation animations
 
-<p align="center">
+<p align="left">
   <img src="https://miro.medium.com/max/300/1*OnG5B5NldJz-l-J1RrEbrw.png" />
 </p>
 
